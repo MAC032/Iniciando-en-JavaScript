@@ -2,7 +2,7 @@
 6) Realizá un programa que permita al usuario ingresar un número entero cant. Acto seguido, que permita ingresar cant números reales, correspondientes a las ventas realizadas por cierto vendedor. La computadora debe mostrar el total de las ventas.
 */
 
-let cant, ventas,total;
+let cant, ventas, total;
 
 cant = parseInt(prompt("¿Cuántas ventas vas a ingresar?"));
 
