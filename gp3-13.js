@@ -30,5 +30,4 @@ while (num !== 0) {
 }
 
 //Muestro el número mínimo y máximo
-console.log(`El número mínimo es ${min}`);
-console.log(`El número máximo es ${max}`);
+console.log(`El mínimo fue ${min} y el máximo fue ${max}`);
